@@ -1,4 +1,4 @@
-## grafica
+## Gráfica
 Material relacionado con la imagen visual de la Escuela (logos, membretes, señalética, etc.)
 
 ####Para bajar una _imagen_ a su computadora:
